@@ -20,7 +20,6 @@ end
      }
    }
    #return the second element in the 4th of July array
-end
 
 def add_supply_to_winter_holidays(holiday_hash, supply)
   # holiday_hash is identical to the one above
